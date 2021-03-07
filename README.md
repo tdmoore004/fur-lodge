@@ -1,10 +1,10 @@
 # FUR LODGE 
-## -- An APP To Find A Loving Host For Our FURRRRIENDS
+## A place to find your fur babies the care they deserve.
 <hr>
 
-  [![github-follow](https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social)](https://github.com/imbingz)
-  [![project-languages-used](https://img.shields.io/github/languages/count/imbingz/fur-lodge?color=important)](https://github.com/imbingz/fur-lodge)
-  [![project-top-language](https://img.shields.io/github/languages/top/imbingz/fur-lodge?color=blueviolet)](https://github.com/imbingz/fur-lodge)
+  [![github-follow](https://img.shields.io/github/followers/tdmoore004?label=Follow&logoColor=purple&style=social)](https://github.com/tdmoore004)
+  [![project-languages-used](https://img.shields.io/github/languages/count/tdmoore004/fur-lodge?color=important)](https://github.com/tdmoore004/fur-lodge)
+  [![project-top-language](https://img.shields.io/github/languages/top/tdmoore004/fur-lodge?color=blueviolet)](https://github.com/tdmoore004/fur-lodge)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
   [![node.js](https://img.shields.io/node/v/c?color=pink)](https://nodejs.org/en/)
   [![npm](https://img.shields.io/npm/v/npm?color=blue&logo=npm)](https://www.npmjs.com/package/inquirer)
