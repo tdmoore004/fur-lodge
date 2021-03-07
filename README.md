@@ -88,6 +88,6 @@
 
   <hr>
   <p align='center'><i>
-  Built by <a href="https://imbingz.github.io/Responsive-Website-Portfolio/"> Bing Z., </a> <a href="https://github.com/cboswel1"> Christian Boswell, </a><a href="https://github.com/tdmoore004"> Tannere Moore, </a><a href="https://github.com/vivid-green"> Zachary Creek</a>
+  Built by <a href="https://imbingz.github.io/Responsive-Website-Portfolio/"> Bing Z., </a> <a href="https://github.com/cboswel1"> Christian Boswell, </a><a href="https://github.com/tdmoore004"> Tanner Moore, </a><a href="https://github.com/vivid-green"> Zachary Creek</a>
 </i></p>
 
